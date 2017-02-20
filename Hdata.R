@@ -10,3 +10,7 @@ class(Hdata)
 str(Hdata)
 head(Hdata)
 
+str(Hdata)
+attach(Hdata)
+ls()
+ls(all=TRUE)
